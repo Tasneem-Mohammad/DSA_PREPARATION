@@ -1,9 +1,9 @@
 1929 - Concatenation of Array
-M1 : Idea is to just keep copying the array also updating the n+i value
+M1 : Idea is to just keep copying the array also updating the n+i value (array declaration int[] arr = new int[5])
 
 217 - Contains Duplicates
-M1 : Two for loops
-M2 : HashMap 
+M1 : Two for loops 
+M2 : HashMap  
 M3 : Sorting the array using Arrays.sort()
 
 242 - Valid Anagram
