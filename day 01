@@ -1,1 +1,12 @@
+1929 - Concatenation of Array
+M1 : Idea is to just keep copying the array also updating the n+i value
 
+217 - Contains Duplicates
+M1 : Two for loops
+M2 : HashMap 
+M3 : Sorting the array using Arrays.sort()
+
+242 - Valid Anagram
+M1 : sort and compare (using Arrays.compare() , toCharArray() )
+M2 : using hashmap ( containsKey() , getOrDefault() , remove() etc are used)
+M3 : using hashtable ( charAt(i)-'a' will give u index i.e from 0 to 25 )
