@@ -1,0 +1,17 @@
+1 - Two Sum - Hashing
+M1: two loops bfs (new int[]{i,j} -> direct return) 0(n^2)
+M2: HashMap ( containsKey() , new int[]{} , .get() , num -> index values)
+
+14 - Longest Common Prefix - Arrays
+M1: sort and take the first values and compare the all the prefixes (two loops) ( str.charAt(i) , Arrays.sort())
+M2 : sort , take first and last values and compare only them -> 0(m * nlogn) m-> length of the pref and nlogn for sorting
+
+49 - Group Anagrams - Hashing
+M1 : hashmap ( sortedstr -> list of str ) FUNC : .toCharArray() containsKey() , .get().add()-> gets the list and adds value , .put() , map.values())
+
+27 - Remove Element - Two pointers
+M1 : add elements into res if != val 
+M2 : i,j = 0 ; i tracks starting index while b traverses , if val == n j++ but when val !=n swap and move both
+
+
+
