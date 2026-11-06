@@ -1,4 +1,14 @@
 706 - Design HashMap
 M1 : Understanding how pair works , how to remove/update ele in the loop( avoid for loop and return after deleting )
 
+88 - Merge Sorted Array
+M1 : USE THE LEAVERAGE OF SORTED START FROM BACK AND REPLACE ONLY DONT SWAPP ALSO CHECK J TWICE
+
+26 - Remove Duplicates from Sorted Array
+M1 : Alternate comparision and replacing
+
+167 - Two Sum II Input Array Is Sorted
+use first and last pointer to find the indexess
+
+
                                                                 
