@@ -1,0 +1,8 @@
+912. Sort an Array
+M1 -> 2loops
+M2 -> Merge sort -> its very imp to walkthrough ur solution in recursion
+
+75. Sort Colors
+M1 -> count and replace 0(2n)
+M2 -> DNF  -> 0 to low-1 -> 0's low to mid-1 -> 1's and mid+1 to n-1 -> 2's , run till the mid<=high
+              note that the unsorted part lies between mid to high
