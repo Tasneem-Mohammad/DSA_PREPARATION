@@ -1,0 +1,13 @@
+347 - Top K frequent Elements
+
+M1 - MAP AND SORT AND GET TOP K VALUES - 0(nlogn) - 
+   Need to revising these methods entrySet() Map.Entry<Integer,Integer> usig sort on list ls.sort((a,b)-> b.getValue()-a.getValue())
+M2 - Minheap( learning)
+
+
+Similiar problems
+973 -> k closest points to Origin
+703 – Kth Largest Element in a Stream
+692 – Top K Frequent Words
+373 – Find K Pairs with Smallest Sums
+378 – Kth Smallest Element in a Sorted Matrix
