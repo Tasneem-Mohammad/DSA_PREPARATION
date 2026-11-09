@@ -15,3 +15,8 @@ M2 - Minheap( learning - ngl i will do this when i learn heaps in order)
 LC Premium - Encode and Decode Strings
 M1 - Use a non asci delimiter ₹ this could work
 M2 - using the length of the string at the start along with any ascii like #5 
+
+
+303 AND 304 Range Sum Query 1D AND 2D - Immutable
+M1 -> GENERAL PREFIX SUM
+M2 -> PREPROCESSING ...(I NEED TO WALKTHROUGH THIS)
