@@ -2,12 +2,16 @@
 
 M1 - MAP AND SORT AND GET TOP K VALUES - 0(nlogn) - 
    Need to revising these methods entrySet() Map.Entry<Integer,Integer> usig sort on list ls.sort((a,b)-> b.getValue()-a.getValue())
-M2 - Minheap( learning)
+M2 - Minheap( learning - ngl i will do this when i learn heaps in order)
 
-
-Similiar problems
+(Similiar problems
 973 -> k closest points to Origin
 703 – Kth Largest Element in a Stream
 692 – Top K Frequent Words
 373 – Find K Pairs with Smallest Sums
-378 – Kth Smallest Element in a Sorted Matrix
+378 – Kth Smallest Element in a Sorted Matrix)
+
+
+LC Premium - Encode and Decode Strings
+M1 - Use a non asci delimiter ₹ this could work
+M2 - using the length of the string at the start along with any ascii like #5 
