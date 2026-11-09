@@ -3,8 +3,11 @@ M1 - HashMap (put , getOrDefault, entryset() , var  , getValue() , getKey())
 M2 - Morres Voting Algo 0(n) 
 M3 - Sorting ( will find the majority in the middle)
 
+
+
 705 : Designing a hashset
 M1 - boolean array of max size of the input 0(n) -SC
 M2 - Use Hashing ( Fixed size of buckets , use hashing to map them to buckets and use list for each bucket to avoid collision - List<List<Integer>> ,
                   .add , .contains , .set(index , val) , .remove(Integer.valueOf(val))
-  
+
+
