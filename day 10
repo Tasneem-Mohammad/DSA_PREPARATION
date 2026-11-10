@@ -4,5 +4,7 @@ m2 -> store pref of the values before it in pre[i] then now cal suff and update 
 
 
 36 - Valid Sudoku
-m1 -> loop traversall final bosss ( understand how to travese 3*3 subgrids)
-m2 -> optimizing it?
+m1 -> loop traversall final bosss ( understand how to travese 3*3 subgrids -> 0(2n) * 3 )
+m2 -> use 3 array of hashsets that will have 9 hashsets each tc->o(2*n) traversal space 0(27)
+
+
