@@ -1,3 +1,8 @@
 238 - Product of Array Except Self
 m1 -> apply 2 for loops and ignore everytime i==j  tc -> 0(n2)
 m2 -> store pref of the values before it in pre[i] then now cal suff and update it accordingly tc-> 0(n) 
+
+
+36 - Valid Sudoku
+m1 -> loop traversall final bosss ( understand how to travese 3*3 subgrids)
+m2 -> optimizing it?
