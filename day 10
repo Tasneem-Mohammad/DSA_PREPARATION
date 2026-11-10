@@ -8,3 +8,6 @@ m1 -> loop traversall final bosss ( understand how to travese 3*3 subgrids -> 0(
 m2 -> use 3 array of hashsets that will have 9 hashsets each tc->o(2*n) traversal space 0(27)
 
 
+128 - Longest Consecutive Sequence
+M1 -> sort 
+M2 -> hash them! how to indentify start of the seq if its before value dosent exist.. also remmember to loop on hashset rather than array(to avoid tle)
