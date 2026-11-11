@@ -9,4 +9,4 @@ M3 : Sorting the array using Arrays.sort()
 242 - Valid Anagram
 M1 : sort and compare (using Arrays.compare() , toCharArray()  0rr .equals() for string ) Time: O(nlog n) Space: O(n) – character arrays
 M2 : using hashmap ( containsKey() , getOrDefault() , remove() etc are used) (confunsed at char[] and string in hashmap - day2) Time: O(n) – average case. Space: O(k)
-M3 : using hashtable ( charAt(i)-'a' will give u index i.e from 0 to 25 ) (say approach here -day2) 	TC - O(n)	SC - O(1)
+M3 : using hashtable ( charAt(i)-'a' will give u index i.e from 0 to 25 ) (saw approach here -day2 - day10 also) 	TC - O(n)	SC - O(26)
