@@ -1,8 +1,13 @@
 706 - Design HashMap
 M1 : Understanding how pair works , how to remove/update ele in the loop( avoid for loop and return after deleting )
+        parent = new ArrayList<>(buckets); // size = 0
+        parent.add(new ArrayList<>()); in a for loop // sixe = 100
+        list.get(idx) , list.indexOf(ele) , list.add(), list.remove(ele)
+
 
 88 - Merge Sorted Array
-M1 : USE THE LEAVERAGE OF SORTED START FROM BACK AND REPLACE ONLY DONT SWAPP ALSO CHECK J TWICE
+M1 : USE THE LEAVERAGE OF SORTED START FROM BACK AND REPLACE ONLY DONT SWAPP
+    ALSO CHECK J TWICE - to avoid boundary casess
 
 26 - Remove Duplicates from Sorted Array
 M1 : Alternate comparision and replacing
