@@ -1,0 +1,22 @@
+SLIDING WINDOW
+
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+POTD OF 12/11
+
+219 - Contains Duplicate 2
+M1: HashMap u ccan check if the dup index and org index value diff is <= k or not always updates the last seen
+M2: USING HASHSET ( ORDER IS SOMEWHAT IM NOT SURE )
+
+
+PATTERNS [https://youtu.be/rW67Ih06Oao?si=Tvz8XqKnnjJhkVFY]
+        
+1. FIXED SLIDING WINDOW
+  643 - MAX AVG SUBARRAY
+  2461 - MAX SUM OF DISTINCT SUBARRAY OF LEN K
+2 DYNAMIC WINDOW - LONGEST/SMALLEST TILL IT SATISFIED A CONDN -> EXPAND R WHEN COND FAILS SHRINK L
+  209 - Min Size subarray sum
+  3  - longest substring without repeating char
+3.SUBSTRING WITH CHAR FREQUENCY CONDION
+  DYAMIC + HASHSET/HASHMAP -> Atmost k dist char or all char repeats x times
+  340 - Longest Substring with At Most K Distinct Characters ( visit leetcode.ca)
+  567 - doing 
