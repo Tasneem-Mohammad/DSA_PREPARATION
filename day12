@@ -19,4 +19,5 @@ PATTERNS [https://youtu.be/rW67Ih06Oao?si=Tvz8XqKnnjJhkVFY]
 3.SUBSTRING WITH CHAR FREQUENCY CONDION
   DYAMIC + HASHSET/HASHMAP -> Atmost k dist char or all char repeats x times
   340 - Longest Substring with At Most K Distinct Characters ( visit leetcode.ca)
-  567 - doing 
+  567 - Permutation in String
+
