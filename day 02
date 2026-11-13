@@ -13,12 +13,9 @@ M2 : sort , take first and last values and compare only them -> 0(m * nlogn) m->
 M1 : hashmap ( sortedstr -> list of str ) FUNC : .toCharArray() containsKey() , .get().add()-> gets the list and adds value , .put()
     new ArrayList<>(map.values());
 
-map.valuesss -> im forgetting this shit
-
+map.valuesss -> im forgetting this shit -> yupp
 
 27 - Remove Element - Two pointers
 M1 : add elements into res if != val 
 M2 : i,j = 0 ; i tracks starting index while b traverses , if val == n j++ but when val !=n swap and move both
 
-
-eassy
