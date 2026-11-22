@@ -9,3 +9,4 @@ isLetterOrDigit() directly we can use (day05)
 680 - Valid Palindrome-2 - Atmost one character is skipped -> check both possibilites after skipping -> return it
 
 1768 - Merge Strings Alternately - easing way is to use 2 pointers 
+
