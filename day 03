@@ -5,9 +5,9 @@ M3 - Sorting ( will find the majority in the middle)
 
 
 
-705 : Designing a hashset
-M1 - boolean array of max size of the input 0(n) -SC
+705 : Designing a hashset -> bro never amazes me 
+M1 - boolean array of max size of the input 0(n) -SC -> boolean[] ls = new boolean[1_000_001] like this
 M2 - Use Hashing ( Fixed size of buckets , use hashing to map them to buckets and use list for each bucket to avoid collision - List<List<Integer>> ,
-                  .add , .contains , .set(index , val) , .remove(Integer.valueOf(val))
+                  .add , .get() ,  .contains , .set(index , val) , .remove(Integer.valueOf(val))
 
 
