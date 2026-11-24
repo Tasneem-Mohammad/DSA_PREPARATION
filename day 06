@@ -3,7 +3,7 @@ M1 : Understanding how pair works , how to remove/update ele in the loop( avoid 
         parent = new ArrayList<>(buckets); // size = 0
         parent.add(new ArrayList<>()); in a for loop // sixe = 100
         list.get(idx) , list.indexOf(ele) , list.add(), list.remove(ele)
-
+PAIR IS IMMUTABLE IN JAVA
 
 88 - Merge Sorted Array
 M1 : USE THE LEAVERAGE OF SORTED START FROM BACK AND REPLACE ONLY DONT SWAPP
