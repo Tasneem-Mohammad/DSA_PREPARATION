@@ -10,7 +10,7 @@ M1 : USE THE LEAVERAGE OF SORTED START FROM BACK AND REPLACE ONLY DONT SWAPP
     ALSO CHECK J TWICE - to avoid boundary casess
 
 26 - Remove Duplicates from Sorted Array
-M1 : Alternate comparision and replacing
+M1 : Alternate comparision and replacing -> Two pointersss
 
 167 - Two Sum II Input Array Is Sorted
 use first and last pointer to find the indexess
